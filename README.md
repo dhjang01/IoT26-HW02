@@ -66,6 +66,11 @@ This confirms that the Raspberry Pi can read digital input and control digital o
 
 ### Raspberry Pi Button and LED Result
 
+
+https://github.com/user-attachments/assets/879a5383-9504-4c9c-a1de-054c9136105e
+
+
+
 ![HW2 Result](hw2_result.png)
 
 ## 8. Members
