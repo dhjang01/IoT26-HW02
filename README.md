@@ -58,15 +58,15 @@ This confirms that the Raspberry Pi can read digital input and control digital o
 
 ### Source Code Screenshot
 
-![HW2 Code](images/hw2_code.png)
+![HW2 Code](/hw2-2code.png)
 
 ### Running Program Screenshot
 
-![HW2 Run](images/hw2_run.png)
+![HW2 Run](hw2-1.png)
 
 ### Raspberry Pi Button and LED Result
 
-![HW2 Result](images/hw2_result.jpg)
+![HW2 Result](hw2_result.jpg)
 
 ## 8. Members
 
